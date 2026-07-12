@@ -34,6 +34,8 @@ common:
     url: https://www.linkedin.com/company/martin-marietta/
   - type: X
     url: https://twitter.com/MartinMarietta
+  - type: Blog
+    url: https://martinmarietta.com/news
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
