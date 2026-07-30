@@ -5,7 +5,18 @@ description: >-
   aggregates, cement, ready-mixed concrete, asphalt, and paving products, used in
   construction, infrastructure, and residential projects across the United States.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/martin-marietta-materials.png
 tags:
   - Building Materials
   - Construction
