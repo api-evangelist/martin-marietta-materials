@@ -1,7 +1,9 @@
 ---
 title: Anthony Foxx | Board of Directors
 url: https://ir.martinmarietta.com/board-directors/anthony-foxx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Martin Marietta Materials" press release artificial intelligence'
 position: 4
 source: serpapi-google
